@@ -57,7 +57,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,kotlin,lua,html,css,github,vscode&amp;theme=dark&amp;perline=8" alt="JavaScript, Python, Kotlin, Lua, HTML, CSS, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,express,python,kotlin,lua,cs,cpp,rust,html,css,github,git,vscode,visualstudio,idea,pycharm,rider,obsidian,robloxstudio,vite,unity&amp;theme=dark&amp;perline=7" alt="JavaScript, TypeScript, Node.js, npm, Express, Python, Kotlin, Lua, C#, C++, Rust, HTML, CSS, GitHub, Git, VS Code, Visual Studio, IntelliJ IDEA, PyCharm, Rider, Obsidian, Roblox Studio, Vite, Unity" />
 </p>
 
 <div align="center">
@@ -168,3 +168,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF0033,55:7A0018,100:0D1117&amp;height=140&amp;section=footer&amp;text=Build%20quietly.%20Launch%20loudly.&amp;fontSize=24&amp;fontColor=FFFFFF&amp;fontAlignY=70&amp;animation=fadeIn" alt="Footer" />
 
 </div>
+
+
