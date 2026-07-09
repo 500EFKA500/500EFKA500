@@ -14,14 +14,14 @@
 
 ### About Me
 
-```js
+js
 const developer = {
   name: "500EFKA500",
   focus: ["Game Development", "Web Development", "Automation"],
   languages: ["JavaScript", "Python", "Kotlin", "Lua"],
   motto: "Code. Create. Repeat.",
 };
-```
+
 
 ### Tech Stack
 
@@ -31,12 +31,12 @@ const developer = {
 
 ### What I Do
 
-```txt
+txt
 > Creating games with unique mechanics
 > Building clean and unusual websites
 > Experimenting with new technologies
 > Turning ideas into real projects
-```
+
 
 ### GitHub Stats
 
@@ -46,13 +46,11 @@ const developer = {
 </p>
 
 ### Current Focus
-
-```txt
+`txt
 Game Development      [#########.] 90%
 Web Development       [########..] 80%
 Automation            [#######...] 70%
 UI / UX Experiments   [######....] 60%
-```
 
 ---
 
