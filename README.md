@@ -1,102 +1,67 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=900&amp;color=FF0033&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Hi%2C+I%27m+500EFKA500;Game+%26+Web+Developer;Code.+Create.+Repeat." alt="Hi, I'm 500EFKA500 - Game & Web Developer - Code. Create. Repeat." />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Game+%26+Web+Developer;I+love+building+cool+things" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=500EFKA500&amp;style=for-the-badge&amp;color=ff0033&amp;label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<br>
+<h1 align="center">500EFKA500</h1>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-
-</div>
+<h3 align="center">Game Developer &bull; Web Developer &bull; Creative Coder</h3>
 
 ---
 
-# 👋 About Me
+### About Me
 
 ```js
 const developer = {
-    name: "YOUR_NAME",
-    location: "Earth 🌍",
-    languages: [
-        "JavaScript",
-        "Python",
-        "Kotlin",
-        "Lua"
-    ],
-    hobbies: [
-        "🎮 Game Development",
-        "🌐 Web Development",
-        "⚡ Interesting Features",
-        "🚀 Learning New Technologies"
-    ],
-
-    motto: "If it can be automated, I'll automate it."
+  name: "500EFKA500",
+  focus: ["Game Development", "Web Development", "Automation"],
+  languages: ["JavaScript", "Python", "Kotlin", "Lua"],
+  motto: "Code. Create. Repeat.",
 };
+```
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,kotlin,lua,html,css,github,vscode&amp;theme=dark" alt="JavaScript, Python, Kotlin, Lua, HTML, CSS, GitHub, VS Code" />
+</p>
+
+### What I Do
+
+```txt
+> Creating games with unique mechanics
+> Building clean and unusual websites
+> Experimenting with new technologies
+> Turning ideas into real projects
+```
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=500EFKA500&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=FF0033&amp;text_color=E6EDF3&amp;icon_color=FF0033&amp;border_color=FF0033" alt="500EFKA500 GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=500EFKA500&amp;layout=compact&amp;bg_color=0D1117&amp;title_color=FF0033&amp;text_color=E6EDF3&amp;icon_color=FF0033&amp;border_color=FF0033" alt="500EFKA500 top languages" />
+</p>
+
+### Current Focus
+
+```txt
+Game Development      [#########.] 90%
+Web Development       [########..] 80%
+Automation            [#######...] 70%
+UI / UX Experiments   [######....] 60%
 ```
 
 ---
 
-# 🚀 Tech Stack
+<p align="center">
+  <strong>Build quietly. Launch loudly.</strong>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=FF0033&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Always+learning.;Always+building.;Always+improving." alt="Always learning. Always building. Always improving." />
+</p>
 
-<img src="https://skillicons.dev/icons?i=javascript,python,kotlin" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-
-</div>
-
----
-
-# 💡 What I Love
-
-> 🎮 Creating games with unique mechanics
-
-> 🌐 Building websites with unusual features
-
-> ⚡ Experimenting with new technologies
-
-> 🛠 Turning ideas into reality
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 "Code. Create. Repeat."
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Always+learning+new+things...;Building+games...;Creating+awesome+websites..." />
-
-</div>
