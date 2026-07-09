@@ -14,14 +14,12 @@
 
 ### About Me
 
-js
-const developer = {
+<pre><code>const developer = {
   name: "500EFKA500",
   focus: ["Game Development", "Web Development", "Automation"],
   languages: ["JavaScript", "Python", "Kotlin", "Lua"],
-  motto: "Code. Create. Repeat.",
-};
-
+  motto: "Code. Create. Repeat."
+};</code></pre>
 
 ### Tech Stack
 
@@ -31,12 +29,12 @@ const developer = {
 
 ### What I Do
 
-txt
-> Creating games with unique mechanics
-> Building clean and unusual websites
-> Experimenting with new technologies
-> Turning ideas into real projects
-
+<p>
+  <strong>&gt;</strong> Creating games with unique mechanics<br>
+  <strong>&gt;</strong> Building clean and unusual websites<br>
+  <strong>&gt;</strong> Experimenting with new technologies<br>
+  <strong>&gt;</strong> Turning ideas into real projects
+</p>
 
 ### GitHub Stats
 
@@ -46,11 +44,11 @@ txt
 </p>
 
 ### Current Focus
-`txt
-Game Development      [#########.] 90%
+
+<pre><code>Game Development      [#########.] 90%
 Web Development       [########..] 80%
 Automation            [#######...] 70%
-UI / UX Experiments   [######....] 60%
+UI / UX Experiments   [######....] 60%</code></pre>
 
 ---
 
@@ -61,5 +59,3 @@ UI / UX Experiments   [######....] 60%
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=FF0033&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Always+learning.;Always+building.;Always+improving." alt="Always learning. Always building. Always improving." />
 </p>
-
-
