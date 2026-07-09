@@ -27,13 +27,28 @@
 
 <h2 align="center">About Me</h2>
 
-<pre><code>const developer = {
-  name: "500EFKA500",
-  focus: ["Game Development", "Web Development", "Automation"],
-  languages: ["JavaScript", "Python", "Kotlin", "Lua"],
-  motto: "Code. Create. Repeat.",
-  currentMode: "Turning ideas into real projects"
-};</code></pre>
+<table align="center">
+  <tr>
+    <td><strong>name</strong></td>
+    <td><code>500EFKA500</code></td>
+  </tr>
+  <tr>
+    <td><strong>focus</strong></td>
+    <td>Game Development, Web Development, Automation</td>
+  </tr>
+  <tr>
+    <td><strong>languages</strong></td>
+    <td>JavaScript, Python, Kotlin, Lua</td>
+  </tr>
+  <tr>
+    <td><strong>motto</strong></td>
+    <td><code>Code. Create. Repeat.</code></td>
+  </tr>
+  <tr>
+    <td><strong>current mode</strong></td>
+    <td>Turning ideas into real projects</td>
+  </tr>
+</table>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,50:FF0033,100:0D1117&amp;height=2&amp;section=header" alt="Red divider" />
@@ -53,19 +68,19 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/500EFKA500?tab=repositories">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0D1117&amp;height=110&amp;text=GAME%20LAB&amp;fontSize=28&amp;fontColor=FF0033&amp;stroke=FF0033&amp;strokeWidth=1" alt="Game Lab" />
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0D1117&amp;height=110&amp;text=GAME%20LAB&amp;fontSize=28&amp;fontColor=FF0033&amp;animation=fadeIn" alt="Game Lab" />
       </a>
       <br><strong>Unique mechanics</strong>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/500EFKA500?tab=repositories">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0D1117&amp;height=110&amp;text=WEB%20CRAFT&amp;fontSize=28&amp;fontColor=FF0033&amp;stroke=FF0033&amp;strokeWidth=1" alt="Web Craft" />
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0D1117&amp;height=110&amp;text=WEB%20CRAFT&amp;fontSize=28&amp;fontColor=FF0033&amp;animation=fadeIn" alt="Web Craft" />
       </a>
       <br><strong>Clean websites</strong>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/500EFKA500?tab=repositories">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0D1117&amp;height=110&amp;text=AUTO%20TOOLS&amp;fontSize=28&amp;fontColor=FF0033&amp;stroke=FF0033&amp;strokeWidth=1" alt="Auto Tools" />
+        <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0D1117&amp;height=110&amp;text=AUTO%20TOOLS&amp;fontSize=28&amp;fontColor=FF0033&amp;animation=fadeIn" alt="Auto Tools" />
       </a>
       <br><strong>Fast automation</strong>
     </td>
@@ -87,25 +102,31 @@
 <details>
   <summary><strong>Level 01: Spawn Idea</strong></summary>
   <br>
-  <pre><code>QUEST: Find a weird mechanic.
-LOADOUT: JavaScript + imagination.
-REWARD: +10 creativity</code></pre>
+  <table>
+    <tr><td><strong>QUEST</strong></td><td>Find a weird mechanic</td></tr>
+    <tr><td><strong>LOADOUT</strong></td><td>JavaScript + imagination</td></tr>
+    <tr><td><strong>REWARD</strong></td><td>+10 creativity</td></tr>
+  </table>
 </details>
 
 <details>
   <summary><strong>Level 02: Build Prototype</strong></summary>
   <br>
-  <pre><code>QUEST: Turn the idea into a playable loop.
-LOADOUT: Python tools + clean UI.
-REWARD: +15 skill</code></pre>
+  <table>
+    <tr><td><strong>QUEST</strong></td><td>Turn the idea into a playable loop</td></tr>
+    <tr><td><strong>LOADOUT</strong></td><td>Python tools + clean UI</td></tr>
+    <tr><td><strong>REWARD</strong></td><td>+15 skill</td></tr>
+  </table>
 </details>
 
 <details>
   <summary><strong>Level 03: Launch Loudly</strong></summary>
   <br>
-  <pre><code>QUEST: Polish, publish, improve.
-LOADOUT: GitHub + discipline.
-REWARD: New project unlocked</code></pre>
+  <table>
+    <tr><td><strong>QUEST</strong></td><td>Polish, publish, improve</td></tr>
+    <tr><td><strong>LOADOUT</strong></td><td>GitHub + discipline</td></tr>
+    <tr><td><strong>REWARD</strong></td><td>New project unlocked</td></tr>
+  </table>
 </details>
 
 <h2 align="center">What I Do</h2>
@@ -123,10 +144,12 @@ REWARD: New project unlocked</code></pre>
 
 <h2 align="center">Current Focus</h2>
 
-<pre><code>Game Development      [#########.] 90%
-Web Development       [########..] 80%
-Automation            [#######...] 70%
-UI / UX Experiments   [######....] 60%</code></pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Development-90%25-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="Game Development 90 percent" />
+  <img src="https://img.shields.io/badge/Web%20Development-80%25-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="Web Development 80 percent" />
+  <img src="https://img.shields.io/badge/Automation-70%25-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="Automation 70 percent" />
+  <img src="https://img.shields.io/badge/UI%20%2F%20UX-60%25-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="UI UX 60 percent" />
+</p>
 
 <div align="center">
 
@@ -135,11 +158,9 @@ UI / UX Experiments   [######....] 60%</code></pre>
 <h2>Stats Signal</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=500EFKA500&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=FF0033&amp;text_color=E6EDF3&amp;icon_color=FF0033&amp;border_color=FF0033" alt="500EFKA500 GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=500EFKA500&amp;layout=compact&amp;bg_color=0D1117&amp;title_color=FF0033&amp;text_color=E6EDF3&amp;icon_color=FF0033&amp;border_color=FF0033" alt="500EFKA500 top languages" />
+  <img src="https://img.shields.io/badge/Profile-500EFKA500-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="Profile 500EFKA500" />
+  <img src="https://img.shields.io/badge/Code-Create%20Repeat-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="Code Create Repeat" />
+  <img src="https://img.shields.io/badge/Focus-Game%20%2B%20Web-ff0033?style=for-the-badge&amp;labelColor=0D1117" alt="Focus Game and Web" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=FF0033&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=60&amp;lines=Always+learning.;Always+building.;Always+improving." alt="Always learning, always building, always improving" />
